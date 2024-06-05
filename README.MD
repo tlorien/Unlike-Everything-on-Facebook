@@ -10,6 +10,7 @@ To use this script, follow these steps:
 
 2. **Copy and Paste the Script**: Copy the code below and paste it into the console:
 
+```javascript
 (function() {
     function unlikeAllLikedPages() {
         const actionButtons = document.querySelectorAll('[aria-label="Action options"]');
@@ -24,7 +25,7 @@ To use this script, follow these steps:
     // Execute the function
     unlikeAllLikedPages();
 })();
-
+```
 
 3. **Run the Script**: Press `Enter` to run the script. The script will:
     - Find all buttons labeled "Action options" and click them.
