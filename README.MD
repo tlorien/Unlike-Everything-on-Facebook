@@ -34,7 +34,7 @@ To use this script, follow these steps:
 
 4. Re-run the script as many time as necessary to remove all likes.
 
-5. In addition to the above script, the following script can use used on the Activity Page (https://www.facebook.com/ *INSERTYOURUSERIDHERE* /allactivity?activity_history=false&category_key=LIKEDINTERESTS&manage_mode=false&should_load_landing_page=false) to delete all of your activity (comments, reactions, likes, etc):
+5. In addition to the above script, the following script can use used on the [Activity Page](https://www.facebook.com/usrID/allactivity?activity_history=false&category_key=LIKEDINTERESTS&manage_mode=false&should_load_landing_page=false) to delete all of your activity (comments, reactions, likes, etc):
 
 ```javascript
 function handleMenuActions() {
