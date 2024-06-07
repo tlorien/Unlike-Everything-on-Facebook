@@ -8,7 +8,7 @@ This project contains a simple JavaScript script to automatically unlike all lik
 
 **Security Risks**: Some Facebook pages may not be adequately secure and can become compromised. Facebook pages directly connect users to content, and as such are hot commodities for malicious entities (governments, terrorist groups, data brokers, hackers, etc) to spread misinformation, propaganda, scams, and spam. If you are connected to these pages, your account might be exposed to phishing attacks, security threats, or general annoyances. **By minimizing your connections, you reduce the potential attack surface for malicious activities.**
 
-**Data Minimization**: Reducing the amount of data you share on social media platforms is a good practice for managing your digital footprint. **It can help prevent further data breaches and unauthorized use of your personal information such as training for large language models (LLMs) such as ChatGPT.**
+**Data Minimization**: Reducing the amount of data you share on social media platforms is a good practice for managing your digital footprint. **It can help prevent further data breaches and the unauthorized use of your personal information, including its use in training large language models (LLMs) like ChatGPT.**
 
 **Decluttering Your Feed**: Over time, you might have liked many pages that no longer interest you (or now post irrelevant or dangerous content) leading to a cluttered news feed. **Unliking these pages can help you regain control over the content you see and ensure that your feed is more relevant to your current interests.**
 
