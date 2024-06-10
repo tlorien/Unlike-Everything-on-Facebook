@@ -16,6 +16,8 @@ This project contains a simple JavaScript script to automatically unlike all lik
 
 ## Usage
 
+### Note: this script only works if the language on the page is set to English.
+
 To use this script, follow these steps on your desktop computer:
 
 1. **Open the Console**: In your browser, [right-click on the Facebook page where all the liked pages are listed](https://www.facebook.com/usrID/allactivity?activity_history=false&category_key=LIKEDINTERESTS&manage_mode=false&should_load_landing_page=false) and select "Inspect", or press `Ctrl+Shift+I` (Windows) or `Cmd+Option+I` (Mac), to open the Developer Tools. Navigate to the "Console" tab.
