@@ -4,8 +4,6 @@
 
 This project contains a simple JavaScript script to automatically unlike all liked pages on the Facebook Activity Log page. The script simulates user interactions by clicking the necessary buttons to unlike each page.
 
-[Want to unfollow all of your followed pages on Instagram? Check out my other script!](https://github.com/tyrtles/Unfollow-Everyone-on-Instagram/blob/main/README.md)
-
 ## Why?
 
 **Privacy Concerns**: Liking pages on Facebook means sharing your interests and preferences with not only your friends but also the page administrators, Facebook, advertisers, and data brokers. This can lead to targeted advertising and profiling that follows you across the internet. **By unliking pages, you reduce the amount of personal information that is visible to third parties.**
@@ -91,5 +89,4 @@ unlikeAll();
 ## Contributing
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-Nah.
+[Want to unfollow all of your followed pages on Instagram? Check out my other script!](https://github.com/tyrtles/Unfollow-Everyone-on-Instagram/blob/main/README.md)
