@@ -1,5 +1,7 @@
 # Unlike Everything on Facebook
 
+[Prefer a userscript version? Click here.](https://greasyfork.org/en/scripts/497495-unlike-all-liked-pages-on-facebook)
+
 This project contains a simple JavaScript script to automatically unlike all liked pages on the Facebook Activity Log page. The script simulates user interactions by clicking the necessary buttons to unlike each page.
 
 [Want to unfollow all of your followed pages on Instagram? Check out my other script!](https://github.com/tyrtles/Unfollow-Everyone-on-Instagram/blob/main/README.md)
