@@ -48,7 +48,7 @@ To use this script, follow these steps on your desktop computer:
 
 4. Re-run the script as many time as necessary to remove all likes.
 
-5. In addition to the above script, the following script can be used on the [All Activity](https://www.facebook.com/usrID/allactivity?activity_history=false&category_key=LIKEDINTERESTS&manage_mode=false&should_load_landing_page=false) page to delete all of your activity (comments, reactions, likes, etc).
+5. In addition to the above script, the following script can be used on the [All Activity](https://www.facebook.com/usrID/allactivity?activity_history=false&category_key=YOURACTIVITYCOMMENTSANDREACTIONSSCHEMA&manage_mode=false&should_load_landing_page=false) page to delete all of your activity (comments, reactions, likes, etc).
 
 **USE WITH CAUTION AS THIS IS IRREVERSIBLE**:
 
